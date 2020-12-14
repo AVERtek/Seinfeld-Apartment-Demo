@@ -1,2 +1,2 @@
-# Seinfeld-Apartment-Demo
-Seinfeld apartment demo
+# Art Demo
+AR Art
