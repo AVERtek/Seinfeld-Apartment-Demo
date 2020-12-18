@@ -23,6 +23,8 @@
   </button>
 </model-viewer>
 
+<iframe src="https://planner5d.com/v/?key=d7cee5731500c93a296e44680f0842b1&viewMode=2d" style="width:500px; height:960px; border:none;" allowfullscreen></iframe>
+
 <!-- Loads <model-viewer> for modern browsers: -->
  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
   </script>
